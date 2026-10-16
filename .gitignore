@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+backup_*.xml
+motion_backup_*.xml
+motion_backup_*.json
+build/
+dist/
+*.spec
